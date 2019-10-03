@@ -32,7 +32,7 @@ Due giornate per conoscere e andare a fondo negli aspetti della composizione str
 | preferenza           | costo |
 | :------------------- | -----:|
 | seminario + ascolto  |   €25 |
-| ascolto              |    €5 |
+| ascolto              |    offerta libera |
 
 
 
@@ -46,11 +46,12 @@ Giorgio Netti condurrà i partecipanti all'interno dei personali aspetti poetici
 > Giorgio Netti
 
 ### Esposizioni elettroacustiche
-Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte
+Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte. [continua...](../pages/elettroacustica2019.html)
 
-{% include image.html url="" image="projects/proj-1/stone_ve.jpg" %}
+
+{% include image.html url="../pages/elettroacustica2019.html" image="projects/proj-1/stone_ve.jpg" %}
 
 ### Lezione-ascolto
-L'incontro con la musica di Giorgio Netti si chiuderà con la partecipazione dell'**MDI ensemble**, riferimento della musica contemporanea a livello internazionale: insieme affronteranno la lettura di *Rinascere sirena*, per trio d’archi, e il brano per violoncello e supporto elettronico *Tête*, ponendo gli spettatori dinanzi la poetica e la dimensione sonora del compositore milanese.
+L'incontro con la musica di Giorgio Netti si chiuderà con la partecipazione dell'**MDI ensemble**, riferimento della musica contemporanea a livello internazionale: insieme affronteranno la lettura di *Rinascere sirena*, per trio d’archi, ponendo gli spettatori dinanzi la poetica e la dimensione sonora del compositore milanese.
 
 {% include image.html url="http://www.mdiensemble.com" image="projects/proj-1/mdi_trio.jpg" %}
