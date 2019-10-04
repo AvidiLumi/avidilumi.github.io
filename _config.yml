@@ -4,7 +4,7 @@ markdown: kramdown
 permalink: none
 plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
-url: 'http://avidilumi.com'
+url: 'http://www.avidilumi.com'
 
 port: 4000
 
