@@ -13,9 +13,9 @@ La proposta formativa prevede un workshop dal 23 al 26 Gennaio 2020, dividendo l
 
 * Masterclass strumentale di percussion sulla prassi esecutiva del repertorio contemporaneo solistico, elettronico ed elettroacustico;
 
-* Call for scores;
+* Call for scores.
 
-Per questa prima edizione è stato invitato il percussionista Simone Beneventi
+Per questa prima edizione è stato invitato il percussionista Simone Beneventi.
 
 L’esigenza di avere queste due sezioni nasce per relazionare l’aspetto compositivo, l’aspetto di ricerca e la sua realizzazione in partitura, all’interprete, al musicista che ricerca nella performance il filo con l’idea del compositore. I partecipanti avranno modo di lavorare sul materiale proposto dal docente, o sulle musiche selezionate dei compositori.
 
@@ -24,43 +24,68 @@ La **call for scores** servirà infatti ad individuare 5 compositori che lavorer
 A suggellare l’offerta, lo studio Avidi Lumi mette a disposizione il suo staff e la sua strumentazione elettronica, con lo scopo di svolgere laboratori pratici sui metodi di amplificazione e sulla messa in scena delle opere per percussione ed elettronica.
 La sera del 26 ci sarà la conclusione con la performance delle composizioni scelte e di alcuni lavori proposti (solisti o di ensemble) nella masterclass, eseguiti da Simone Beneventi e dagli allievi.
 
-SCADENZA ISCRIZIONI: da inserire
+Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (max 15 per corso) [io non metterei il limite]
 
-ISCRIZIONE UDITORI: ad esaurimento posti(max 15 per corso)
-
-REGOLAMENTO
-
-Simone Beneventi guiderà il progetto sia per i percussionisti che per i compositori, approfondendo l’interpretazione e le tecniche strumentali.
-
-
-STRUMENTISTI
-PARTECIPANTI ATTIVI(6 persone):
-160€. La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di strumenti e composizione com uditore. Pranzo sociale
-
-COMPOSITORI
-PARTECIPANTI ATTIVI(5 persone):
-130€. La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di strumenti e composizione com uditore. Verranno selezionate tre(3) composizioni che verranno eseguite durante l’esibizione finale. Pranzo Sociale
-
-
-Come Iscriversi: gli strumentisti e i compositori interessati devono inviare una mail all’indirizzo info@avidilumi.com (oggetto: Nome/Cognome/sezione/attivo) entro le …., allegando:
-
-Cv artistico
-copia di un documento valido
-Per strumentisti: brano/i che si intendono approfondire a lezione;
-per compositori: 1 o 2 partiture per qualsiasi strumento.
-
-Le selezioni dei partecipanti verranno comunicate il …
-
-Ogni compostitore selezionato potrà inviare entro …. 1 o 2 partiture( e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti [più flauto e Pianoforte???], con possibilità di utilizzare supporti elettronici.
-
-
-Come Iscriversi UDITORI
+**SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: da inserire
+**SCADENZA ISCRIZIONI PARTECIPANTI UDITORI**: 15 gennaio 2020
 
 
 
+### REGOLAMENTO
+
+**Simone Beneventi** guiderà il progetto sia per i percussionisti che per i compositori, approfondendo l’interpretazione e le tecniche strumentali.
 
 
-Allegare tabella orari presente nel file MASTERCLASS 19 22 dicembre(da aggiornare)
+#### STRUMENTISTI
+##### PARTECIPANTI ATTIVI (6 persone):
+È prevista una lezione individuale della durata di 90’ [non ne vogliamo fare 2?] e la possibilità di partecipare a tutte le lezioni di strumenti e composizione come uditore.
+<br>
+Tassa di frequenza allievi effettivi: 160€ (Pranzo sociale incluso)<br>
+Tassa di frequenza allievi uditori: 50€ (Pranzo sociale incluso)
+
+
+#### COMPOSITORI
+##### PARTECIPANTI ATTIVI (5 persone):
+La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di composizione e prassi esecutiva come uditore. Verranno selezionate tre composizioni che verranno eseguite durante l’esibizione finale. Pranzo Sociale incluso
+<br>
+Tassa di frequenza allievi effettivi: 130€ (Pranzo sociale incluso)<br>
+Tassa di frequenza allievi uditori: 50€ (Pranzo sociale incluso)
+
+
+
+**Come Iscriversi:**
+
+Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo info@avidilumi.com (oggetto: Nome/Cognome/sezione/attivo) entro le …., allegando:
+
+* CV artistico
+* copia di un documento valido
+* per strumentisti: brano/i che si intendono approfondire a lezione
+* per compositori: 1 o 2 partiture per qualsiasi strumento
+
+Le selezioni dei partecipanti verranno comunicate il **data**. I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti.
+
+
+Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture( e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti [più flauto e Pianoforte???], con possibilità di utilizzare supporti elettronici.
+
+
+#### Programma:
+
+* 23 gennaio: arrivo di Simone Beneventi, controllo e montaggio Set Up [??? è un giorno perso per loro?]
+
+orario/data           | 24 gennaio            | 25 gennaio            | 26 gennaio
+--------------------- | :-------------------: | :-------------------: | :-------------------:
+9:00-10:00            | Introduzione al repertorio prescelto          |      |
+11:00-12:15           | Lezione individuale Percuss. 1 | Lezione individuale Percuss. 3 | Lezione individuale Percuss. 5
+12:15-13:30           | Lezione individuale Percuss. 2 | Lezione individuale Percuss. 4 | Lezione individuale Percuss. 6
+13:30-15:00           | pausa pranzo | pausa pranzo | pausa pranzo
+15:00-16:30           | Lezione Individuale Comp. 1 | Lezione Individuale Comp. 3 | Lezione Individuale Comp. 5
+16:30-18:00           | Lezione Individuale Comp. 2 | Lezione Individuale Comp. 4 | Preparazione concerto
+19:00                 |                             |                             | Concerto
+
+
+[alternerei: tipo in un gionro fare comp-perc pranzo perc-comp. Che ne dite?]
+
+
 
 
 
@@ -193,10 +218,8 @@ in alternativa: si può inviare un partitura per percussioni in corso d’opera,
 registrazioni delle partiture inviate (opzionale)
 curriculum artistico e di studi
 
-I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti
 
 
-ALLIEVI UDITORI 6?
 
 
 
