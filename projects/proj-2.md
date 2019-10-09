@@ -1,17 +1,78 @@
 ---
 layout: post
-title: 'International analysis, interpretation and composition masterclass'
+title: 'Percussion Week'
 ---
 
 
-### With Simone Beneventi
+#### Settimana dedicata all’interpretazione e alla composizione per strumenti a percussione nella musica contemporanea
 
-#### Masterclass di percussioni con Simone Beneventi + call for scores
+##### dal 23 al 26 Gennaio 2020
+
+Avidi Lumi presenta la sua prima edizione di attività didattica dedicata allo studio e all'analisi degli aspetti della musica contemporanea, focalizzando l'attenzione sugli strumenti a percussione ed il loro utilizzo nella composizione  musicale.
+La proposta formativa prevede un workshop dal 23 al 26 Gennaio 2020, dividendo l’offerta in due sezioni:
+
+* Masterclass strumentale di percussion sulla prassi esecutiva del repertorio contemporaneo solistico, elettronico ed elettroacustico;
+
+* Call for scores;
+
+Per questa prima edizione è stato invitato il percussionista Simone Beneventi
+
+L’esigenza di avere queste due sezioni nasce per relazionare l’aspetto compositivo, l’aspetto di ricerca e la sua realizzazione in partitura, all’interprete, al musicista che ricerca nella performance il filo con l’idea del compositore. I partecipanti avranno modo di lavorare sul materiale proposto dal docente, o sulle musiche selezionate dei compositori.
+
+La **call for scores** servirà infatti ad individuare 5 compositori che lavoreranno con Simone Beneventi e gli allievi del corso strumentale. Tutte le composizioni saranno selezionate per il concerto conclusivo della masterclass.
+
+A suggellare l’offerta, lo studio Avidi Lumi mette a disposizione il suo staff e la sua strumentazione elettronica, con lo scopo di svolgere laboratori pratici sui metodi di amplificazione e sulla messa in scena delle opere per percussione ed elettronica.
+La sera del 26 ci sarà la conclusione con la performance delle composizioni scelte e di alcuni lavori proposti (solisti o di ensemble) nella masterclass, eseguiti da Simone Beneventi e dagli allievi.
+
+SCADENZA ISCRIZIONI: da inserire
+
+ISCRIZIONE UDITORI: ad esaurimento posti(max 15 per corso)
+
+REGOLAMENTO
+
+Simone Beneventi guiderà il progetto sia per i percussionisti che per i compositori, approfondendo l’interpretazione e le tecniche strumentali.
+
+
+STRUMENTISTI
+PARTECIPANTI ATTIVI(6 persone):
+160€. La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di strumenti e composizione com uditore. Pranzo sociale
+
+COMPOSITORI
+PARTECIPANTI ATTIVI(5 persone):
+130€. La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di strumenti e composizione com uditore. Verranno selezionate tre(3) composizioni che verranno eseguite durante l’esibizione finale. Pranzo Sociale
+
+
+Come Iscriversi: gli strumentisti e i compositori interessati devono inviare una mail all’indirizzo info@avidilumi.com (oggetto: Nome/Cognome/sezione/attivo) entro le …., allegando:
+
+Cv artistico
+copia di un documento valido
+Per strumentisti: brano/i che si intendono approfondire a lezione;
+per compositori: 1 o 2 partiture per qualsiasi strumento.
+
+Le selezioni dei partecipanti verranno comunicate il …
+
+Ogni compostitore selezionato potrà inviare entro …. 1 o 2 partiture( e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti [più flauto e Pianoforte???], con possibilità di utilizzare supporti elettronici.
+
+
+Come Iscriversi UDITORI
 
 
 
 
 
+Allegare tabella orari presente nel file MASTERCLASS 19 22 dicembre(da aggiornare)
+
+
+
+Breve testo sul concerto
+
+
+Lista del repertorio
+
+
+
+
+-------------------------
 Avidi Lumi presenta la sua prima edizione di **masterclass** e **call for scores**, con un'iniziativa dedicata allo studio e all'analisi agli aspetti della musica contemporanea, focalizzando l'attenzione sulle percussioni ed il repertorio ad esse dedicato, sia storico-contemporaneo, ma soprattutto proposto dalle nuove generazioni.
 
 Simone Beneventi (percussionista di fama internazionale, insignito del premio *Leone d’Argento* alla Biennale Musica di Venezia 2010) guiderà il progetto che si svolgerà dal *22 gennaio* al *27 gennaio 2020* (6 giorni).<br>
