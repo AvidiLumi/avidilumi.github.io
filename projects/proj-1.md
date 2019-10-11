@@ -10,6 +10,8 @@ Sono invitati al seminario studenti, musicisti e curiosi che vogliono avvicinars
 
 Due giornate per conoscere e andare a fondo negli aspetti della composizione strumentale connessi a nuovi sistemi di amplificazione e diffusione sonora.
 
+<a href="{{ site.url }}/pdf/seminario-nov2019.pdf" target="_blank">Scarica il pdf</a>
+
 [//]: <> (-------------)
 ##### 10 novembre 2019, ore 9:30 - 13
 #### Seminario di Composizione Giorgio Netti <br>*L’Assedio, l’Arco, la Memoria*
