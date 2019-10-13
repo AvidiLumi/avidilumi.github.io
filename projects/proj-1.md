@@ -51,10 +51,10 @@ Giorgio Netti condurrà i partecipanti all'interno dei personali aspetti poetici
 > Giorgio Netti
 
 ### Esposizioni elettroacustiche
-Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte. [continua...](../pages/elettroacustica2019.html)
+Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte. [continua...](../elettroacustica2019.html)
 
 
-{% include image.html url="../pages/elettroacustica2019.html" image="projects/proj-1/stone_ve.jpg" text="continua"%}
+{% include image.html url="../elettroacustica2019.html" image="projects/proj-1/stone_ve.jpg" text="continua"%}
 
 ### Lezione-ascolto
 L'incontro con la musica di Giorgio Netti si chiuderà con la partecipazione dell'**MDI ensemble**, riferimento della musica contemporanea a livello internazionale: insieme affronteranno la lettura di *Rinascere sirena*, per trio d’archi, ponendo gli spettatori dinanzi la poetica e la dimensione sonora del compositore milanese.
