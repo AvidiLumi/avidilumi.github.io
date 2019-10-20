@@ -10,7 +10,7 @@ Sono invitati al seminario studenti, musicisti e curiosi che vogliono avvicinars
 
 Due giornate per conoscere e andare a fondo negli aspetti della composizione strumentale connessi a nuovi sistemi di amplificazione e diffusione sonora.
 
-<a href="{{ site.url }}/pdf/seminario-nov2019.pdf" target="_blank">Scarica il pdf</a>
+<a href="{{ site.url }}/pdf/seminario-nov2019.pdf" target="_blank">Visualizza in formato pdf</a>
 
 [//]: <> (-------------)
 ##### 10 novembre 2019, ore 9:30 - 13
@@ -31,12 +31,12 @@ Iscrizione tramite:
 
 * messaggio tramite la pagina Facebook [@avidilumi](https://www.facebook.com/avidilumi)
 
-* registrazione su eventibrite.com (in arrivo)
+* registrazione su [eventibrite.com](https://www.eventbrite.com/e/seminari-di-musica-contemporanea-ed-elettroacustica-tickets-77720328595)
 
 
 | preferenza           | costo |
 | :------------------- | -----:|
-| seminario + ascolto  |   €25 |
+| seminario + ascolto  |   €30 |
 | ascolto              |    offerta libera |
 
 
