@@ -27,7 +27,7 @@ Due giornate per conoscere e andare a fondo negli aspetti della composizione str
 
 Iscrizione tramite:
 
-* email a info@avidilumi.com
+* e-mail a [info@avidilumi.com](mailto:info@avidilumi.com)
 
 * messaggio tramite la pagina Facebook [@avidilumi](https://www.facebook.com/avidilumi)
 
