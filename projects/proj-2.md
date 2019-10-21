@@ -24,7 +24,7 @@ La **call for scores** servirà infatti ad individuare 5 compositori che lavorer
 A suggellare l’offerta, lo studio Avidi Lumi mette a disposizione il suo staff e la sua strumentazione elettronica, con lo scopo di svolgere laboratori pratici sui metodi di amplificazione e sulla messa in scena delle opere per percussione ed elettronica.
 La sera del 26 gennaio ci sarà la conclusione con la performance delle composizioni scelte e di alcuni lavori proposti (solisti o di ensemble) nella masterclass, eseguiti da Simone Beneventi e dagli allievi.
 
-Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (max 15 per corso) [io non metterei il limite]
+Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (max 15 per corso).
 
 **SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: da inserire
 **SCADENZA ISCRIZIONI PARTECIPANTI UDITORI**: 15 gennaio 2020
@@ -38,7 +38,7 @@ Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (ma
 
 #### STRUMENTISTI
 ##### PARTECIPANTI ATTIVI (6 persone):
-È prevista una lezione individuale della durata di 90’ [75?]e la possibilità di partecipare a tutte le lezioni di strumenti e composizione come uditore.
+È prevista una lezione individuale della durata di 90 minuti e la possibilità di partecipare a tutte le lezioni di strumenti e composizione come uditore.
 <br>
 **Tassa allievi effettivi:** 160€ (Pranzo sociale incluso)<br>
 **Tassa allievi uditori:** 50€ (Pranzo sociale incluso)
@@ -46,7 +46,7 @@ Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (ma
 
 #### COMPOSITORI
 ##### PARTECIPANTI ATTIVI (5 persone):
-La quota comprende una lezione individuale della durata di 90’ e la possibilità di partecipare a tutte le lezioni di composizione e prassi esecutiva come uditore. Verranno selezionate tre composizioni che verranno eseguite durante l’esibizione finale. Pranzo Sociale incluso
+La quota comprende una lezione individuale della durata di 90 minuti e la possibilità di partecipare a tutte le lezioni di composizione e prassi esecutiva come uditore. Verranno selezionate tre composizioni che verranno eseguite durante l’esibizione finale. Pranzo Sociale incluso
 <br>
 **Tassa allievi effettivi:** 130€ (Pranzo sociale incluso)<br>
 **Tassa allievi uditori:** 50€ (Pranzo sociale incluso)
@@ -55,7 +55,7 @@ La quota comprende una lezione individuale della durata di 90’ e la possibilit
 
 **Come Iscriversi:**
 
-Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo info@avidilumi.com (oggetto: Nome/Cognome/sezione/attivo) entro le …., allegando:
+Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo info@avidilumi.com (oggetto: Masterclass Beneventi - Cognome/Nome/corso) entro le …., allegando:
 
 * CV artistico
 * copia di un documento valido
@@ -64,28 +64,29 @@ Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indi
 
 Le selezioni dei partecipanti verranno comunicate il **data**. I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti.
 
+Il pagamento potrà essere effettuato tramite bonifico una volta ricevuta dell'email di selezione degli *allievi effettivi*, e successivamente all'email di prenotazione per gli *allievi uditori*.
 
-Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture( e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti [più flauto e Pianoforte???], con possibilità di utilizzare supporti elettronici.
+
+Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture (e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti (a scelta si possono aggiungere flauto e/o pianoforte), con possibilità di utilizzare supporti elettronici.
 
 
 ### Programma:
 
-* 23 gennaio: arrivo di Simone Beneventi, controllo e montaggio Set Up [??? è un giorno perso per loro? magari aggiungere l'introduzione al repertorio?]
+*23 gennaio:* 
+* ore 15:00: introduzione al repertorio prescelto 
+* ore 16:30: controllo e montaggio dei set up
 
-Di seguito il piano delle lezioni individuali
+
+Di seguito il piano delle lezioni individuali:
 
 orario / data           | 24 gennaio            | 25 gennaio            | 26 gennaio
 :---------------------: | :-------------------: | :-------------------: | :-------------------:
-9:00-10:00            | Introduzione al repertorio prescelto          |      |
-11:00-12:15           | Percuss. 1 | Percuss. 3 | Percuss. 5
-12:15-13:30           | Percuss. 2 | Percuss. 4 | Percuss. 6
+10:30-12:00           | Comp. 1 | Comp. 3 | Percuss. 5
+12:00-13:30           | Percuss. 1 | Percuss. 3 | Percuss. 6
 13:30-15:00           | pausa pranzo | pausa pranzo | pausa pranzo
-15:00-16:30           | Comp. 1 | Comp. 3 | Comp. 5
+15:00-16:30           | Percuss. 2 | Percuss. 4 | Comp. 5
 16:30-18:00           | Comp. 2 | Comp. 4 | Prep. Conc.
 19:00                 |                             |                             | Concerto
-
-
-[alternerei: tipo in un gionro fare comp-perc pranzo perc-comp. Che ne dite?]
 
 
 
@@ -101,7 +102,7 @@ Lista del repertorio
 
 -------------------------
 
-L'iniziativa è di coinvolgere strumentisti e compositori di ogni nazionalità interessati ad approfondire la prassi esecutiva contemporanea per percussioni attraverso l'esecuzione stessa e l'analisi del repertorio contemporaneo.<br>
+L'iniziativa è di coinvolgere strumentisti e compositori di ogni nazionalità interessati ad approfondire la prassi esecutiva contemporanea per percussioni attraverso l'esecuzione stessa e l'analisi del repertorio contemporaneo.<br>
 La settimana si articolerà in due corsi:
 
 ##### Analisi del repertorio
