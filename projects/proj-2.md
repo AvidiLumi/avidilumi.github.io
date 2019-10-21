@@ -26,7 +26,7 @@ La sera del 26 gennaio ci sarà la conclusione con la performance delle composiz
 
 Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (max 15 per corso).
 
-**SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: da inserire
+**SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: da inserire<br>
 **SCADENZA ISCRIZIONI PARTECIPANTI UDITORI**: 15 gennaio 2020
 
 
@@ -64,7 +64,7 @@ Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indi
 
 Le selezioni dei partecipanti verranno comunicate il **data**. I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti.
 
-Il pagamento potrà essere effettuato tramite bonifico una volta ricevuta dell'email di selezione degli *allievi effettivi*, e successivamente all'email di prenotazione per gli *allievi uditori*.
+Le indicazioni di pagamento verranno inviate singolarmente contestualmente all'e-mail di selezione degli *allievi effettivi*, e successivamente all'e-mail di prenotazione per gli *allievi uditori*.
 
 
 Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture (e relativo audio se esistente) per percussioni da solista ad un max di 5 percussionisti (a scelta si possono aggiungere flauto e/o pianoforte), con possibilità di utilizzare supporti elettronici.
