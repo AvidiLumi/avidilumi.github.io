@@ -72,7 +72,7 @@ Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture (e r
 
 ### Programma:
 
-*23 gennaio:* 
+**23 gennaio:** 
 * ore 15:00: introduzione al repertorio prescelto 
 * ore 16:30: controllo e montaggio dei set up
 
