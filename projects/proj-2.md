@@ -55,7 +55,7 @@ La quota comprende una lezione individuale della durata di 90 minuti e la possib
 
 **Come Iscriversi:**
 
-Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo info@avidilumi.com (oggetto: Masterclass Beneventi - Cognome/Nome/corso) entro le …., allegando:
+Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo [info@avidilumi.com](mailto:info@avidilumi.com) (oggetto: Masterclass Beneventi - Cognome/Nome/corso) entro le …., allegando:
 
 * CV artistico
 * copia di un documento valido
