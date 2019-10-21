@@ -38,7 +38,7 @@ Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (ma
 
 #### STRUMENTISTI
 ##### PARTECIPANTI ATTIVI (6 persone):
-È prevista una lezione individuale della durata di 90 minuti e la possibilità di partecipare a tutte le lezioni di strumenti e composizione come uditore.
+È prevista una lezione individuale della durata di 90 minuti e la possibilità di partecipare a tutte le lezioni di strumenti e composizione come uditore. I brani possono essere scelti dalla **lista del repertorio**.
 <br>
 **Tassa allievi effettivi:** 160€ (Pranzo sociale incluso)<br>
 **Tassa allievi uditori:** 50€ (Pranzo sociale incluso)
@@ -92,34 +92,17 @@ orario / data           | 24 gennaio            | 25 gennaio            | 26 gen
 
 
 
-Breve testo sul concerto
+### Breve testo sul concerto
 
 
-Lista del repertorio
+### Lista del repertorio
 
+### Ulteriori informazioni
 
+Informazioni su come arrivare, dove alloggiare e strutture convezionate sono alla pagina <a href="{{ site.url }}/pages/contact.html" target="_blank">Contatti</a>.
 
 
 -------------------------
-
-L'iniziativa è di coinvolgere strumentisti e compositori di ogni nazionalità interessati ad approfondire la prassi esecutiva contemporanea per percussioni attraverso l'esecuzione stessa e l'analisi del repertorio contemporaneo.<br>
-La settimana si articolerà in due corsi:
-
-##### Analisi del repertorio
-* opere scelte dagli esecutori tra le proposte elecante di seguito
-* opere selezionate dalla **call for scores**
-
-##### Esecuzione del repertorio
-* prassi esecutiva delle opere scelte dagli esecutori tra le proposte elecante di seguito
-* prassi esecutiva delle opere selezionate dalla **call for scores**
-
-
-La **call for scores** servirà infatti ad individuare 5 compositori che lavoreranno con Simone Beneventi e gli allievi del corso strumentale. Tutte le composizioni saranno selezionate per il concerto conclusivo della masterclass. I brani saranno registrati presso lo studio dell’associazione.
-
-A suggellare l’offerta, lo studio Avidi Lumi mette a disposizione il suo staff e la sua strumentazione elettronica, con lo scopo di svolgere laboratori pratici sui metodi di amplificazione e sulla messa in scena delle opere per percussione ed elettronica.
-L’iscrizione ad una delle due masterclass prevede la possibilità di seguire anche l’altra in qualità di uditore.
-
----
 
 ### Interpretazione
 
