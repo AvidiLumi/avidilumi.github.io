@@ -10,7 +10,7 @@ Sono invitati al seminario studenti, musicisti e curiosi che vogliono avvicinars
 
 Due giornate per conoscere e andare a fondo negli aspetti della composizione strumentale connessi a nuovi sistemi di amplificazione e diffusione sonora.
 
-<a href="{{ site.url }}/pdf/seminario-nov2019.pdf" target="_blank">Visualizza in formato pdf</a>
+<a href="{{ site.url }}/pdf/seminario-nov2019.pdf" target="_blank">Scarica in formato pdf</a>
 
 [//]: <> (-------------)
 ##### 10 novembre 2019, ore 9:30 - 13
@@ -51,7 +51,7 @@ Giorgio Netti condurrà i partecipanti all'interno dei personali aspetti poetici
 > Giorgio Netti
 
 ### Esposizioni elettroacustiche
-Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte. [continua...](../pages/elettroacustica2019.html)
+Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, attraverso un laboratorio illustrerà tecniche di messa in scena musicale evolute o che facciano uso di strumenti di diffusione unici, realizzati appositamente. Così nascono i suoi strumenti di diffusione S.T.ONE per la proiezione sferica del suono, così si riparte dalla contemplazione ed imitazione della realtà, così si riprende un percorso, attraverso l'arte. [(dettagli)](../pages/elettroacustica2019.html)
 
 
 {% include image.html url="../pages/elettroacustica2019.html" image="projects/proj-1/stone_ve.jpg" text="continua"%}

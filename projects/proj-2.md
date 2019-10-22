@@ -19,14 +19,14 @@ Per questa prima edizione è stato invitato il percussionista Simone Beneventi.
 
 L’esigenza di avere queste due sezioni nasce per relazionare l’aspetto compositivo, l’aspetto di ricerca e la sua realizzazione in partitura, all’interprete, al musicista che ricerca nella performance il filo con l’idea del compositore. I partecipanti avranno modo di lavorare sul materiale proposto dal docente, o sulle musiche selezionate dei compositori.
 
-La **call for scores** servirà infatti ad individuare 5 compositori che lavoreranno con Simone Beneventi e gli allievi del corso strumentale. Tutte le composizioni saranno selezionate per il **concerto conclusivo** della masterclass.
+La **call for scores** servirà infatti ad individuare 5 compositori che lavoreranno con Simone Beneventi e gli allievi del corso strumentale. Verranno  selezionate le composizioni dei partecipanti per il **concerto conclusivo** della masterclass.
 
 A suggellare l’offerta, lo studio Avidi Lumi mette a disposizione il suo staff e la sua strumentazione elettronica, con lo scopo di svolgere laboratori pratici sui metodi di amplificazione e sulla messa in scena delle opere per percussione ed elettronica.
 La sera del 26 gennaio ci sarà la conclusione con la performance delle composizioni scelte e di alcuni lavori proposti (solisti o di ensemble) nella masterclass, eseguiti da Simone Beneventi e dagli allievi.
 
 Le iscrizioni sono aperte anche ad allievi uditori fino ad esaurimento posti (max 15 per corso).
 
-**SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: da inserire<br>
+**SCADENZA ISCRIZIONI PARTECIPANTI EFFETTIVI**: 1 dicembre 2019<br>
 **SCADENZA ISCRIZIONI PARTECIPANTI UDITORI**: 15 gennaio 2020
 
 
@@ -55,14 +55,16 @@ La quota comprende una lezione individuale della durata di 90 minuti e la possib
 
 **Come Iscriversi:**
 
-Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo [info@avidilumi.com](mailto:info@avidilumi.com) (oggetto: Masterclass Beneventi - Cognome/Nome/corso) entro le …., allegando:
+Gli strumentisti e i compositori interessati devono inviare un'e-mail all’indirizzo [info@avidilumi.com](mailto:info@avidilumi.com) (oggetto: Masterclass Beneventi - Cognome/Nome/corso) entro le **ore 12 (CEST)** di domenica **1 dicembre 2019**, allegando:
 
 * CV artistico
 * copia di un documento valido
 * per strumentisti: brano/i che si intendono approfondire a lezione
 * per compositori: 1 o 2 partiture per qualsiasi strumento
 
-Le selezioni dei partecipanti verranno comunicate il **data**. I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti.
+I risultati curati personalmente da Simone Beneventi, saranno comunicati tramite posta elettronica ai partecipanti.
+
+[//]: <> (Le selezioni dei partecipanti verranno comunicate il **data**.)
 
 Le indicazioni di pagamento verranno inviate singolarmente contestualmente all'e-mail di selezione degli *allievi effettivi*, e successivamente all'e-mail di prenotazione per gli *allievi uditori*.
 
@@ -72,8 +74,8 @@ Ogni compostitore selezionato potrà inviare entro **data** 1 o 2 partiture (e r
 
 ### Programma:
 
-**23 gennaio:** 
-* ore 15:00: introduzione al repertorio prescelto 
+**23 gennaio:**
+* ore 15:00: introduzione al repertorio prescelto
 * ore 16:30: controllo e montaggio dei set up
 
 
@@ -97,61 +99,45 @@ orario / data           | 24 gennaio            | 25 gennaio            | 26 gen
 
 ### Lista del repertorio
 
+* Mario Bertoncini, Tune (Piatti sospesi + nastro)
+* Pierluigi Billone: Mani Gonxha (2 campane tibetane)
+* Riccardo Nova: Mantra XIII Vasavas (solo + el.) *
+* Riccardo Nova: Mantra XIII Vasavas (solo + el.) *
+* Alexandra Vrebalov: Byzantine (Low melodic instrument and drone accompaniment)
+* Salvatore Sciarrino: Esplorazione del bianco (set up)
+* Giorgio Battistelli: Orazi e Curiazi (2 perc)
+* Timothy McCormack: Traces that time leaves on a built form (perc, pf) *
+* Isabel Mundry: Composition for flute and percussion
+* Iannis Xenakis: Rebounds
+
+### Strumentazione tecnica e strumentale a disposizione
+
+* 2 marimbe 5ottave Yamaha
+* 2 Vibrafono
+* 4 Glockenspiel
+* Xilofono
+* Timpani set
+* 3 grancasse
+* 2 set campane tubolari
+* Congas set
+* 3/4 bongos
+* 2/3 set batteria
+* Tom Tom set
+* Woodblock, block e Temple block set
+* Campanacci set
+* 3 Lion Roar
+* 2 djembe
+* 3/4 tam
+* Set gong a mammella di varie dimensioni, da grande e piccoli
+* Aste e sostegni di ogni tipologia
+* Set di piatti
+* Pianoforte a coda
+* Lastre di varie dimensioni
+
+
 ### Ulteriori informazioni
 
 Informazioni su come arrivare, dove alloggiare e strutture convezionate sono alla pagina <a href="{{ site.url }}/pages/contact.html" target="_blank">Contatti</a>.
 
 
--------------------------
-
-### Interpretazione
-
-
-È tanto bello fare musica insieme e scoprire nuove cose e nuove persone
-
-yeah yeah yeah
-
-
-
-
-
-
-
-
-
-### Call for score: performance and composition with Simone Beneventi
-
-Lo studio l’analisi  e il confronto con i compositori, con cui finalizzare i loro progetti compositivi tramite la performance: in virtù della suddetta proposta, in allegato alla domanda, i partecipanti del corso di composizione sono invitati ad inviare una composizione per percussioni (massimo 5 strumentisti) o un progetto a carattere performativo/percussivo/elettronico.
-I brani, analizzati assieme agli esecutori, saranno eseguiti da Simone Beneventi e gli allievi nei giorni della masterclass.
-Lo studio metterà a disposizione tutto il necessario per il set up elettronico incluso il supporto per la regia del suono.
-
-Si aggiungono queste sezioni tra le attività svolte:
-
-
-##### Performance practice
-
-La performance è anche altro dalla tradizione	.
- Simone beneventi porta qualcosa di  diverso rispetto al solo concertista:  la costruzione di una Simone, dall’invenzione strumentale di Bertoncini, ai progettii come 9 bells , sound containers.
-
-
-##### Elettronica, percussione, project, elettroacustic sistem
-
-Una caratteristica di questa **call for scores** è la possibilità di avvicinarsi alle tecniche elettroniche, alla regia del suono e alla possibilità di studio elettroacustico, tramite.
-
-Si aggiungeranno due lezioni sugli aspetti di amplificazione e fondamenti di  elettroacustica, aiutando a crescere sotto gli aspetti oramai importanti nell’uso dell’elettronica e strumento, nell’amplificazione e nella registrazione.
-
-
-
-
-##### Momento performativo
-
-L’ultimo giorno, presso lo studio Avidi Lumi
-
-
-
-
-
-
-
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="../pages/beneventi2020.html" image="projects/proj-2/IMG_0471.JPG" text="approfondisci"%}
