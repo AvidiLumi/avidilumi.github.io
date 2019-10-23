@@ -34,7 +34,7 @@ google-analytics-ua: 'UA-149929303-1'
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'thathungrymind'
+  disqus_shortname: 'lorenzoscricchio'
 
 #-------------------------------
 # About Section
@@ -52,6 +52,7 @@ contact: >
 
   write us [an email](mailto:info@avidilumi.com) or come to visit at<br>
   via del Casale Rocchi, 39 (Roma)<br>
+  there is parking
   <br>
   Con i mezzi/By bus:<br>
   *441* - stop: last stop Casale Rocchi (ID: 79783)<br>
