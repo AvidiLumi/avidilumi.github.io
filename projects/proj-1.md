@@ -39,6 +39,7 @@ Iscrizione tramite:
 | seminario + ascolto  |   €30 |
 | ascolto              |    offerta libera |
 
+Informazioni su dove si trova la sede alla pagina [Contacts](../pages/contact.html)
 
 
 ### L’Assedio, l’Arco, la Memoria
