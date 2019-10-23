@@ -14,13 +14,13 @@ Due giornate per conoscere e andare a fondo negli aspetti della composizione str
 
 [//]: <> (-------------)
 ##### 10 novembre 2019, ore 9:30 - 13
-#### Seminario di Composizione Giorgio Netti <br>*L’Assedio, l’Arco, la Memoria*
+#### Seminario di Composizione Giorgio Netti <br>*L’assedio, l’arco, la memoria*
 -------------
 ##### 10 novembre 2019, ore 15 - 18:30
 #### Seminario di Elettroacustica Giuseppe Silvi <br>*Esposizioni elettroacustiche*
 -------------
 ##### 11 novembre 2019, ore 18.30 - 20
-#### Lezione - ascolto con MDI ENSEMBLE
+#### Lezione - ascolto con mdi-ensemble
 -------------
 
 ##### MODALITÀ DI PARTECIPAZIONE
@@ -57,6 +57,6 @@ Giuseppe Silvi, docente di Musica Elettronica a Roma, Piacenza, Padova e Nuoro, 
 {% include image.html url="../pages/elettroacustica2019.html" image="projects/proj-1/stone_ve.jpg" text="continua"%}
 
 ### Lezione-ascolto
-L'incontro con la musica di Giorgio Netti si chiuderà con la partecipazione dell'**MDI ensemble**, riferimento della musica contemporanea a livello internazionale: insieme affronteranno la lettura di *Rinascere sirena*, per trio d’archi, ponendo gli spettatori dinanzi la poetica e la dimensione sonora del compositore milanese.
+L'incontro con la musica di Giorgio Netti si chiuderà con la partecipazione dell'**mdi ensemble**, riferimento della musica contemporanea a livello internazionale: insieme affronteranno la lettura di *Rinascere sirena*, per trio d’archi, ponendo gli spettatori dinanzi la poetica e la dimensione sonora del compositore milanese.
 
 {% include image.html url="http://www.mdiensemble.com" image="projects/proj-1/mdi_trio.jpg" text="mdi - website" %}
