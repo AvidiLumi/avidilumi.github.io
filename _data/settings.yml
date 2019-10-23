@@ -59,9 +59,9 @@ contact: >
   *211* - stop: Pietralata/Casale Rocchi (ID: 72485)<br>
   *111* - stop: Durantini/Pietralata (ID: 71169) and then walking<br>
   *MB* - stop: Monti Tiburtini and then walking, or other buses<br>
-  
+
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.276689898361!2d12.542265515479032!3d41.92990547014952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f63122ef774d9%3A0x360c7de91dd13f7e!2sAvidi%20Lumi!5e0!3m2!1sit!2sit!4v1571844539789!5m2!1sit!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-  
+
   <br>**Strutture convezionate / Affiliated structures**
 
   <br>in arrivo
@@ -71,7 +71,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Seminari di Musica Contemporanea ed Elettroacustica', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Seminari di Musica Contemporanea ed Elettroacustica', folder: '2019nov', file: 'projects/2019nov.html'}
 - {name: 'Simone Beneventi', folder: 'proj-2', file: 'projects/proj-2.html'}
 #- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 #- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}

@@ -13,7 +13,13 @@
 <lastmod>2017-01-01T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/projects/2019nov.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pages/beneventi.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pages/beneventi2020.html</loc>
@@ -29,9 +35,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/proj-1.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/projects/proj-2.html</loc>
