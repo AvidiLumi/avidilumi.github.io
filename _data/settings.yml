@@ -81,7 +81,7 @@ projects:
 # Contact Section
 
 social:
-#- {icon: 'twitter', link: '#'}
+- {icon: 'twitter', link: 'https://twitter.com/avidilumi/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/avidilumi/'}
 - {icon: 'github', link: 'https://github.com/AvidiLumi'}
 - {icon: 'facebook', link: 'https://www.facebook.com/avidilumi/'}
